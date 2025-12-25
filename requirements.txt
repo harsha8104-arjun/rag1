@@ -1,4 +1,4 @@
 streamlit 
 sentence_transformers
-faiss
+faiss-cpu
 numpy
